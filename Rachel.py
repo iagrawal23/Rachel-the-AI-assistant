@@ -155,7 +155,7 @@ if __name__ == "__main__":
 
         elif 'Morning' in query:
             speak("A warm good morning")
-            speak("How are you udit")
+            speak("How are you Ishan")
 
         elif "will you be my girlfriend" in query:   
             speak("I'm sorry, i have a boyfriend, his name is Jarvis, you may know him, he is Mister Stark's assistant ")
